@@ -45,7 +45,7 @@
     },
     "6": {
       "question": "What's the frequency for the up of AI tools in BEST NSFW AI Directory?",
-      "answer": "The list of AI tools will be updated weekly."
+      "answer": "The list of AI tools will be updated daily."
     },
     "7": {
       "question": "Is it support GPT-4o or Sora AI here?",
@@ -103,7 +103,7 @@
       "6-h2": "5. Changes to Terms",
       "6-p": "BEST NSFW AI Directory reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
       "7-h2": "6. Contact Information",
-      "7-p": "If you have any questions about these Terms, please contact us at y.chen1018@hotmail.com.",
+      "7-p": "If you have any questions about these Terms, please contact us at bestnsfwai@gmail.com.",
       "last-p": "By using BEST NSFW AI Directory, you signify your acceptance of these Terms of Service."
     }
   },
@@ -113,7 +113,7 @@
   },
   "Home": {
     "title": "Discover The Best NSFW AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in BEST NSFW AI Tools Directory. AI tools list are updated weekly by GPT-4o. It's free to submit here to enhance your SEO now. ",
+    "subTitle": "Get your favorite AI tools in BEST NSFW AI Tools Directory. AI tools list are updated daily by GPT-4o. It's free to submit here to enhance your SEO now. ",
     "ai-navigate": "AI Tools List",
     "exploreMore": "Get More AI Tools",
     "checkDetail": "View Detail",
@@ -138,8 +138,8 @@
   },
   "Startup": {
     "title": "Kickstart Your Startup Launch",
-    "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: y.chen1018@hotmail.com. ",
-    "updateTime": "Curated and updated weekly. Last updated:",
+    "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: bestnsfwai@gmail.com. ",
+    "updateTime": "Curated and updated daily. Last updated:",
     "table": {
       "da": "DA",
       "website": "Website",
@@ -154,7 +154,7 @@
   },
   "Explore": {
     "title": "Discover The Best NSFW AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in BEST NSFW AI Tools Directory. AI tools list are updated weekly by GPT-4o."
+    "subTitle": "Get your favorite AI tools in BEST NSFW AI Tools Directory. AI tools list are updated daily by GPT-4o."
   },
   "Metadata": {
     "home": {
