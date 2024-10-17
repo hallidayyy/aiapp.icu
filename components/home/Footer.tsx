@@ -33,7 +33,7 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: t('BESTNSFWAI'),
+      title: 'BESTNSFWAI',
       href: 'https://www.bestnsfwai.club',
     },
 
